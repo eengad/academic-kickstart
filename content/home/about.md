@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Information Theory",
+    "Machine Learning",
+    "Data Storage",
+	"Channel Coding",
+	"Statistics"	
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Electrical Engineering"
+  institution = "California Institute of Technology"
+  year = 2015
+
+[[education.courses]]
+  course = "MS in Electrical Engineering"
+  institution = "California Institute of Technology"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Electrical Engineering"
+  institution = "Technion - Israel Institute of Technology"
   year = 2008
  
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I design error-correcting-codes for flash and 3DXPoint-based solid state drives.
+Previously I worked on machine-learning algorithms for community detection and on various channel coding techniques for data storage.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
