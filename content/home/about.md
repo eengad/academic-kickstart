@@ -37,6 +37,6 @@ weight = 5
 
 # About Me
 
-I design error-correcting codes for flash and 3D-XPoint memories.  
+I design error-correcting codes for flash memories and 3D-XPoint.  
 Previously I worked on machine-learning algorithms for community detection and on channel coding techniques for data storage.
 

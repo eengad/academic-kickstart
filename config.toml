@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
-  address = "590 Alder Dr, Milpitas, CA 95035, USA"
+  address = ""
   office_hours = ""
   phone = ""
   skype = ""
@@ -257,6 +257,11 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
+
+[[menu.main]]
+  name = "Bio"
+  url = "#contact"
+  weight = 3
 
 
 # Taxonomies.
