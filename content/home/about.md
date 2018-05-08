@@ -37,6 +37,6 @@ weight = 5
 
 # About Me
 
-I design error-correcting-codes for flash and 3DXPoint-based solid state drives.
-Previously I worked on machine-learning algorithms for community detection and on various channel coding techniques for data storage.
+I design error-correcting codes for flash and 3D-XPoint memories.  
+Previously I worked on machine-learning algorithms for community detection and on channel coding techniques for data storage.
 
