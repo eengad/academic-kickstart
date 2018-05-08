@@ -14,7 +14,6 @@ weight = 70
 autolink = true
 
 +++
-# Work
 
 System Architect, **Micron Technology**  
 2016 - Present  
