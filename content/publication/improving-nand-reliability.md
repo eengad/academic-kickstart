@@ -1,6 +1,6 @@
 +++
 title = "Improving NAND Flash Reliability via Rank Modulation"
-date = 2016-06-16T22:02:57-07:00
+date = 2018-05-29T22:02:57-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Y. Li", "E. En Gad", "A. Jiang", "J. Bruck"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Patent Application"
-publication_short = ""
+publication = "United States Patent"
+publication_short = "US Patent"
 
 # Abstract and optional shortened version.
 abstract = "The reliability of NAND flash memory decreases rapidly as density increases, preventing the wide adoptions of flash-based storage systems. This paper studies a novel data representation scheme named rank modulation (RM) for improving NAND flash reliability. RM encodes data using the relative orders of memory cell voltages, which is inherently resilient to asymmetric errors. Our goal is to study the effectiveness of RM in flash. To the end, we adapt RM to make it simple to implement with existing flash memories. Our implementation is evaluated under different types of noise of 20nm flash memory. Results show that RM offers significantly lower cell error rates compared to the current data representation in flash at typical P/E cycles. We apply RM to flash-based archival storage and show that RM brings up to 6 times longer data retention time for 16nm flash memory."
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Google Patents", url = "https://patents.google.com/patent/WO2016094741A1"}]
+url_custom = [{name = "Google Patents", url = "http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/9983808"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
